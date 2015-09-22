@@ -11,5 +11,16 @@
 
 * p0. [StarLogo TNG]  **Termites simulation**
 * p1. [StarLogo TNG]  **_Battle simulations:_ Game of Thrones**
-* p2. [NetLogo]       **_Collective intelligence:_ Ants**
-* p3. [NetLogo]       **_User Community Models:_ Negotiations**
+* p2. [NetLogo v5.2]  **_Collective intelligence:_ Ants**
+* p3. [NetLogo v5.2]  **_User Community Models:_ Negotiations**
+
+------------------
+###Further information visit...
+
+#### StarLogo TNG (MIT)
+ * http://education.mit.edu/portfolio_page/starlogo-tng/
+ * http://web.mit.edu/mitstep/projects/starlogo-tng/learn.html
+
+#### NetLogo HomePage
+ *  https://ccl.northwestern.edu/netlogo/
+ *  http://ccl.northwestern.edu/netlogo/docs/
